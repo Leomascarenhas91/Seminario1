@@ -1,2 +1,3 @@
 # Seminario1
-Reposuitorio do Seminario 1 de PAA
+Repositorio do Seminario 1 de PAA
+Link Youtube: https://youtu.be/prb19yXWXMg
